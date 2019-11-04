@@ -27,7 +27,7 @@ h6 {
 }
 
 h2 {
-	font-size: 48px;
+	font-size: 24px;
 }
 
 h3 {
@@ -395,7 +395,7 @@ ol {
 }
 
 .hero-text {
-	margin-bottom: 80px;
+	margin-bottom: 50px;
 }
 
 .hero-text h2 {
@@ -405,12 +405,12 @@ ol {
 }
 
 .hero-text p {
-	font-size: 33px;
-	line-height: 1.3;
+	font-size: 28px;
+	line-height: 1.2;
 }
 
 .hero-image {
-	padding-top: 70px;
+	padding-top: 30px;
 }
 
 .hero-info h2 {
@@ -422,7 +422,7 @@ ol {
 }
 
 .hero-info ul li {
-	font-size: 24px;
+	font-size: 15px;
 	color: #808181;
 	margin-bottom: 15px;
 }
@@ -847,12 +847,12 @@ ol {
 
 .home-three-style .hero-image,
 .home-four-style .hero-image {
-	margin-bottom: 100px;
+	margin-bottom: 30px;
 }
 
 .home-three-style .hero-text h2,
 .home-four-style .hero-text h2 {
-	font-size: 72px;
+	font-size: 48px;
 	margin-bottom: 40px;
 }
 
