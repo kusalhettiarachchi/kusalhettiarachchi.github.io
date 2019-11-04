@@ -803,7 +803,7 @@ ol {
 .home-three-style .main-left-area,
 .home-four-style .main-left-area {
 	background: #f2f7f8;
-	padding-top: 200px;
+	padding-top: 0px;
 	padding-right: 80px;
 	padding-left: 80px;
 }
@@ -815,7 +815,7 @@ ol {
 
 .home-three-style .main-right-area,
 .home-four-style .main-right-area {
-	padding-top: 200px;
+	padding-top: 0px;
 	padding-left: 110px;
 }
 
@@ -896,7 +896,7 @@ ol {
 .home-four-style .social-links {
 	text-align: center;
 	padding-bottom: 70px;
-	padding-top: 120px;
+	padding-top: 0px;
 }
 
 .home-three-style .social-links a,
@@ -1017,7 +1017,7 @@ ol {
 }
 
 .home-five-style .hero-section {
-	padding-top: 70px;
+	padding-top: 20px;
 }
 
 .home-five-style .hero-section img {
